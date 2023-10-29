@@ -90,14 +90,14 @@ Berikut adalah Logo dan Makna Logo dari EduScan
     <th>Profil</th>
   </tr>
   <tr>
-    <th><img src=""></th>
-    <th><img src=""></th>
+    <th><img src="docs/depi2.png"></th>
+    <th><img src="docs/depi1.png"></th>
   </tr>
 </table>
 
 >**Febrian Dani Ritonga**<p>
 >- Detail Jobdesk : Pembuatan Detail Riwayat dan Setting
->- Link Repository : -
+>- Link Repository : [Repository Febrian (klik)](https://github.com/daniertg/2141720070-mobile-2023/tree/master/UTS)
 
 <table>
   <tr>
@@ -105,8 +105,8 @@ Berikut adalah Logo dan Makna Logo dari EduScan
     <th>Settings</th>
   </tr>
   <tr>
-    <th><img src=""></th>
-    <th><img src=""></th>
+    <th><img src="docs/Detail_KTP.png"></th>
+    <th><img src="docs/settings.png"></th>
   </tr>
 </table>
 
@@ -121,7 +121,7 @@ Berikut adalah Logo dan Makna Logo dari EduScan
   </tr>
   <tr>
     <th><img src=""></th>
-    <th><img src=""></th>
+    <th><img src="docs/tentang_kami.PNG"></th>
   </tr>
 </table>
 
