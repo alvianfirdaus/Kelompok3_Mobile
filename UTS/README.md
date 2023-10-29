@@ -66,7 +66,7 @@ Berikut adalah Logo dan Makna Logo dari EduScan
 
 >**Alvian Nur Firdaus**<p>
 >- Detail Jobdesk : Pembuatan Splash Screen dan Riwayat
->- Link Repository : Alvian Nur F
+>- Link Repository : [Repository Alvian (klik)](https://github.com/alvianfirdaus/2141720022-mobile-2023/tree/main/week-09/src/UTS)
 
 <table>
   <tr>
