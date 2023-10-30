@@ -127,7 +127,7 @@ Berikut adalah Logo dan Makna Logo dari EduScan
 
 >**Zahra Anisa Wahono**<p>
 >- Detail Jobdesk : Pembuatan Register dan Login
->- Link Repository : -
+>- Link Repository : [Zahra Anisa (klik)](https://github.com/zhrnnsw/2141720016-mobile-2023/tree/main/week-9/src/eduscan)
 
 <table>
   <tr>
