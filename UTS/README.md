@@ -82,7 +82,7 @@ Berikut adalah Logo dan Makna Logo dari EduScan
 
 >**Devi Andini Febrianti**<p>
 >- Detail Jobdesk : Pembuatan Scanner dan Riwayat
->- Link Repository : -
+>- Link Repository : [Devi Andini (klik)](https://github.com/deviandinifebrianti/2141720189-Mobile-2023/tree/main/ocr_ktp)
 
 <table>
   <tr>
