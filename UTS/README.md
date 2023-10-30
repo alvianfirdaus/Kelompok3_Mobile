@@ -112,7 +112,7 @@ Berikut adalah Logo dan Makna Logo dari EduScan
 
 >**Naresh Pratista**<p>
 >- Detail Jobdesk : Data hasil Scan dan about us
->- Link Repository : -
+>- Link Repository : [Naresh (klik)](https://github.com/NareshPratista28/2141720057-mobile-2023/tree/main/UTS)
 
 <table>
   <tr>
