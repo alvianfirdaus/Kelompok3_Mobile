@@ -120,7 +120,7 @@ Berikut adalah Logo dan Makna Logo dari EduScan
     <th>About us</th>
   </tr>
   <tr>
-    <th><img src=""></th>
+    <th><img src="docs/n.PNG"></th>
     <th><img src="docs/tentang_kami.PNG"></th>
   </tr>
 </table>
